@@ -92,6 +92,24 @@ body {
   
   }
 }
+#relatedEpisodes {
+  text-align: center;
+}
+#relatedEpisodes .trippy {
+  color: #23b14c;
+}
+#relatedEpisodes .bliss {
+  color: #ed1370;
+}
+#relatedEpisodes .vibrant {
+  color: #fbe206;
+}
+#relatedEpisodes .rough {
+  color: #f03c2d;
+}
+#relatedEpisodes .dreamy {
+  color: #22acdd;
+}
 @media only screen and (min-width: 768px) {
   .only-mobile {
     display: none;
